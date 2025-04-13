@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-details-flow:24.1.6" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.vaadin" artifactId="vaadin-details-flow" version="24.1.6" baseVersion="24.1.6" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-details-flow/24.1.6/ba7356d5d60d908ace088fcd71cfcefae383fc9b/vaadin-details-flow-24.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-details-flow/24.1.6/dd958409ad7a22529999beed50c664e727a168c8/vaadin-details-flow-24.1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-details-flow/24.1.6/70f5227b6028c4ba54a245ad900f17d84925421e/vaadin-details-flow-24.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

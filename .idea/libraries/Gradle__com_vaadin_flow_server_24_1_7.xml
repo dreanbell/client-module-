@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:flow-server:24.1.7" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.vaadin" artifactId="flow-server" version="24.1.7" baseVersion="24.1.7" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/flow-server/24.1.7/b9fb1cb7db7b935d4dc075267a56e3fab132a729/flow-server-24.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/flow-server/24.1.7/d2ffe947685c7a2773b6b79b4ddafd1fdd1dd1a1/flow-server-24.1.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/flow-server/24.1.7/2acddccd43c9f789117e9ff46a90a2df4454a6fd/flow-server-24.1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

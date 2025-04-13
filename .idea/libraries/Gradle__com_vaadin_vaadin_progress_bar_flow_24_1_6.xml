@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-progress-bar-flow:24.1.6" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.vaadin" artifactId="vaadin-progress-bar-flow" version="24.1.6" baseVersion="24.1.6" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-progress-bar-flow/24.1.6/3c1196e3c4f099a3b39571fb3a3d6097296c8940/vaadin-progress-bar-flow-24.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-progress-bar-flow/24.1.6/6b299c322df2d6f24e7c250107425e1fd0dba399/vaadin-progress-bar-flow-24.1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-progress-bar-flow/24.1.6/118743b9d4fc120521d710f5f9beba2f33448f89/vaadin-progress-bar-flow-24.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

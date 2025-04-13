@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:flow-commons-upload:24.1.7" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.vaadin" artifactId="flow-commons-upload" version="24.1.7" baseVersion="24.1.7" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/flow-commons-upload/24.1.7/bc20174992340c6a7ae081e4e272db1eb927429d/flow-commons-upload-24.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/flow-commons-upload/24.1.7/9c83b72735207890400d3aa0d8b6e9bad43b5615/flow-commons-upload-24.1.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/flow-commons-upload/24.1.7/a730e7b2da64c6384e3294082ffd4d34415823ba/flow-commons-upload-24.1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

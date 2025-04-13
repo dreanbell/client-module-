@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-messages-flow:24.1.6" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.vaadin" artifactId="vaadin-messages-flow" version="24.1.6" baseVersion="24.1.6" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-messages-flow/24.1.6/df9bb6fa34ef4e8b72eb14be3cf37e1fc620392b/vaadin-messages-flow-24.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-messages-flow/24.1.6/8e4c1581f66a8e713d2f0bd7bd1d833077cd309c/vaadin-messages-flow-24.1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-messages-flow/24.1.6/7d909a844c33b079dbeb0da78706b62e33cfda4f/vaadin-messages-flow-24.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

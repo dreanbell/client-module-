@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-dialog-flow:24.1.6" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.vaadin" artifactId="vaadin-dialog-flow" version="24.1.6" baseVersion="24.1.6" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-dialog-flow/24.1.6/1b91657d3d9bdd19db60b486fa84c538e7cd621d/vaadin-dialog-flow-24.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-dialog-flow/24.1.6/ba943af424d9747293c7ada4304692844f1e615a/vaadin-dialog-flow-24.1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-dialog-flow/24.1.6/90cf311ed6f6c2442dd9c719bbc0162ff8d212d4/vaadin-dialog-flow-24.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-virtual-list-flow:24.1.6" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.vaadin" artifactId="vaadin-virtual-list-flow" version="24.1.6" baseVersion="24.1.6" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-virtual-list-flow/24.1.6/c846835c8d5fe1445401ac96ed0ab488f8deac10/vaadin-virtual-list-flow-24.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-virtual-list-flow/24.1.6/9cba98670050138a1417a7bd5afa6029cacb83e7/vaadin-virtual-list-flow-24.1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-virtual-list-flow/24.1.6/af2f9a7895db1277938793f64749caca5d2b08f8/vaadin-virtual-list-flow-24.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

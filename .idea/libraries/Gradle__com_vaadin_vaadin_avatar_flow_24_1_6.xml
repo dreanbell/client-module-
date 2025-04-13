@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-avatar-flow:24.1.6" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.vaadin" artifactId="vaadin-avatar-flow" version="24.1.6" baseVersion="24.1.6" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-avatar-flow/24.1.6/e351b1c748eee346306a763059bf76369b550d69/vaadin-avatar-flow-24.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-avatar-flow/24.1.6/a0792101e23d3f399c7ad5e0c52eaa6d828983a/vaadin-avatar-flow-24.1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-avatar-flow/24.1.6/ef2581243f12b0118b6427e4e3bd86cff8ebce8d/vaadin-avatar-flow-24.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

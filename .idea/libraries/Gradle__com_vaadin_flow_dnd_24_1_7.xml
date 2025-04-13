@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:flow-dnd:24.1.7" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.vaadin" artifactId="flow-dnd" version="24.1.7" baseVersion="24.1.7" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/flow-dnd/24.1.7/f42e25aed9c642f9728357497cdda430773bf4db/flow-dnd-24.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/flow-dnd/24.1.7/eb4d2829a92df86e3f4d46e69cbb9654e94736f7/flow-dnd-24.1.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/flow-dnd/24.1.7/9f6805f922d378353f91e06d299f02193ff7fbc2/flow-dnd-24.1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
