@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.helger:ph-css:7.0.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.helger" artifactId="ph-css" version="7.0.0" baseVersion="7.0.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.helger/ph-css/7.0.0/145ef4667da6e81ba0a587f0bd0560ff50e9db0a/ph-css-7.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

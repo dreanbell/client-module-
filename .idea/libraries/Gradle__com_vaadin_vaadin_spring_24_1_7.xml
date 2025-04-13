@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-spring:24.1.7" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.vaadin" artifactId="vaadin-spring" version="24.1.7" baseVersion="24.1.7" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-spring/24.1.7/e1f71b5e774b58f6ce2bb598860c3f018f8efdee/vaadin-spring-24.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
