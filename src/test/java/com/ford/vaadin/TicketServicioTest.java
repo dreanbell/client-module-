@@ -13,7 +13,9 @@ public class TicketServicioTest {
 
     @BeforeEach
     void setUp() {
-        ticket = new Ticket(1, "Ana Torres","anatorres@gmai.com","Problema con el radiador", "no arraca cuando la temperatura sube", "","Abierto");
+        ticket = new Ticket(1, "Ana Torres","anatorres@gmai.com"
+                ,"Problema con el radiador", "no arranca cuando la temperatura sube"
+                , "","Abierto");
     }
 
     @Test
