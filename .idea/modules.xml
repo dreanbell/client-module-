@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VaadinServicioClienteIntelliJ.iml" filepath="$PROJECT_DIR$/.idea/modules/VaadinServicioClienteIntelliJ.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VaadinServicioClienteIntelliJ.main.iml" filepath="$PROJECT_DIR$/.idea/modules/VaadinServicioClienteIntelliJ.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VaadinServicioClienteIntelliJ.test.iml" filepath="$PROJECT_DIR$/.idea/modules/VaadinServicioClienteIntelliJ.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/micro.main.iml" filepath="$PROJECT_DIR$/.idea/modules/micro.main.iml" />
     </modules>
   </component>
 </project>
